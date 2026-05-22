@@ -1,0 +1,4 @@
+Data Sheet/emnist_source_files/
+*.ubyte
+*.csv
+*.pkl
